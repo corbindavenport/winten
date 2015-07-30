@@ -1,0 +1,30 @@
+{
+   "manifest_version":2,
+   "theme":{
+      "images":{
+         "theme_frame":"images\/theme_frame.png",
+         "theme_toolbar":"images\/theme_toolbar.png",
+         "theme_tab_background":"images\/theme_tab_background.png"
+      },
+      "colors":{
+         "frame":[255, 255, 255],
+         "toolbar":[204, 204, 204],
+         "tab_text":[0, 0, 0],
+         "tab_background_text":[98, 98, 98],
+         "bookmark_text":[98, 98, 98],
+         "ntp_background":[255, 255, 255],
+         "ntp_text":[0, 0, 0],
+         "button_background":[0, 0, 0, 0]
+      },
+      "tints":{
+         "buttons":[0, 0, 0]
+      },
+      "properties":{
+         "ntp_background_alignment":"bottom",
+         "ntp_background_repeat":"no-repeat"
+      }
+   },
+   "name":"Windows 10",
+   "version":"1.0",
+   "description":"Chrome theme designed for Windows 10."
+}

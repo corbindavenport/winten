@@ -1,10 +1,15 @@
 WinTen
 ================
-WinTen is a theme for Google Chrome, designed to fit the look and feel of Microsoft Windows 10. This theme was designed for Chrome on Windows 10, but also works on Chrome for Mac/Linux.
+WinTen is a theme for Google Chrome, designed to fit the look and feel of Microsoft Windows 10. This theme was designed for Chrome on Windows, but also works for Chrome on any platform.
 
-![alt text](http://i.imgur.com/tAPZhr0.png "Screenshot")
+![alt text](http://i.imgur.com/yIG5PYE.png "Screenshot")
 
 ---------------------------------------------------------
+__New in WinTen 2.0:__
+* Adjusted colors to look like Microsoft Edge
+* Fixed shadow behind toolbar buttons
+* Fixed incognito mode tabs
+
 __New in WinTen 1.0:__
 * Initial Release
 

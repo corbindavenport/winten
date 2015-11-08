@@ -4,27 +4,34 @@
       "images":{
          "theme_frame":"images\/theme_frame.png",
          "theme_toolbar":"images\/theme_toolbar.png",
-         "theme_tab_background":"images\/theme_tab_background.png"
+         "theme_tab_background":"images\/theme_tab_background.png",
+         "theme_tab_background_incognito":"images\/theme_tab_background_incognito.png"
       },
       "colors":{
-         "frame":[255, 255, 255],
-         "toolbar":[204, 204, 204],
+         "frame":[242, 242, 242],
+         "toolbar":[242, 242, 242],
          "tab_text":[0, 0, 0],
          "tab_background_text":[98, 98, 98],
          "bookmark_text":[98, 98, 98],
-         "ntp_background":[255, 255, 255],
+         "ntp_background":[242, 242, 242],
          "ntp_text":[0, 0, 0],
          "button_background":[0, 0, 0, 0]
       },
       "tints":{
-         "buttons":[0, 0, 0]
+         "buttons":[242, 242, 242],
+         "frame":[242, 242, 242]
       },
       "properties":{
          "ntp_background_alignment":"bottom",
          "ntp_background_repeat":"no-repeat"
       }
    },
-   "name":"Windows 10",
-   "version":"1.0",
-   "description":"Chrome theme designed for Windows 10."
+   "name":"WinTen",
+   "version": "2.0",
+   "author": "Corbin Davenport",
+   "homepage_url": "https://github.com/corbindavenport/winten",
+   "description":"Chrome theme designed for Windows 10.",
+   "icons":{
+      "128":"icon128.png"
+   }
 }
